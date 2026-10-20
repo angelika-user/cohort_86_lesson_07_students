@@ -28,5 +28,21 @@
     lastName: "Zakis",
     age: 36,
     course: 99,
+    firstName: "Jane",
+    lastName: "Daw",
+    age: 33,
+    course: 11,
+  },
+  {
+    firstName: "Alex",
+    lastName: "Ivanov",
+    age: 22,
+    course: 17,
+  },
+  {
+    firstName: "Lolli",
+    lastName: "Dasy",
+    age: 36,
+    course: 1,
   },
 ];
