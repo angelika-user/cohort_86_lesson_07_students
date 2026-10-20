@@ -30,9 +30,15 @@
     course: 11,
   },
   {
-   firstName: "Lolli",
+    firstName: "Alex",
+    lastName: "Ivanov",
+    age: 22,
+    course: 17,
+  },
+  {
+    firstName: "Lolli",
     lastName: "Dasy",
     age: 36,
     course: 1,
-  }
+  },
 ];
