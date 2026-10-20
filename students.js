@@ -24,6 +24,10 @@
     course: 3,
   },
   {
+    firstName: "Maris",
+    lastName: "Zakis",
+    age: 36,
+    course: 99,
     firstName: "Jane",
     lastName: "Daw",
     age: 33,
