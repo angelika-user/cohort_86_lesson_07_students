@@ -23,4 +23,10 @@
     age: 21,
     course: 3,
   },
+
+    firstName: "Jane",
+    lastName: "Daw",
+    age: 33,
+    course: 11,
+  }
 ];
