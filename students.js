@@ -34,5 +34,11 @@
     lastName: "Ivanov",
     age: 22,
     course: 17,
-  }
+  },
+  {
+    firstName: "Lolli",
+    lastName: "Dasy",
+    age: 36,
+    course: 1,
+  },
 ];
