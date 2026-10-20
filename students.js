@@ -23,4 +23,10 @@
     age: 21,
     course: 3,
   },
+  {
+    firstName: "Maris",
+    lastName: "Zakis",
+    age: 36,
+    course: 99,
+  },
 ];
