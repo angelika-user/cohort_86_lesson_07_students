@@ -27,6 +27,8 @@
     firstName: "Maris",
     lastName: "Zakis",
     age: 36,
+  },
+  {
     course: 99,
     firstName: "Jane",
     lastName: "Daw",
