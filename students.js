@@ -53,4 +53,10 @@
     age: 101,
     course: -1,
   },
+      {
+    firstName: "Andrej",
+    lastName: "Popovich",
+    age: 102,
+    course: 0,
+  },
 ];
