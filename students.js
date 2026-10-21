@@ -42,8 +42,8 @@
     course: 17,
   },
   {
-    firstName: "Lolli",
-    lastName: "Dasy",
+    firstName: "Wowan",
+    lastName: "Pusch",
     age: 36,
     course: 1,
   },
