@@ -47,4 +47,10 @@
     age: 36,
     course: 1,
   },
+    {
+    firstName: "Markus",
+    lastName: "Markovich",
+    age: 101,
+    course: -1,
+  },
 ];
